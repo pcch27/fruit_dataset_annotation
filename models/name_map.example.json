@@ -1,0 +1,6 @@
+{
+  "_說明": "A 類別名稱（小寫）→ B 類別名稱。名稱完全相同的不用寫；複製成 name_map.json 後使用",
+  "limes": "Lime",
+  "pitahaya": "Dragonfruit",
+  "melon": "Cantaloupe"
+}
