@@ -50,9 +50,3 @@ results/ screenshots/ docs/
 
 ## 限制
 範圍外水果（如油桃、龍眼）不在 B 類別內；測試照片小量且手選，不代表一般情況；名稱對錯由程式判定，換用前建議抽查（尤其覆盆子）。
-
----
-## English
-Fruit recognition with two models: **A** multi-label classification (Baseline CNN / ResNet18 / MobileNetV2, 55 classes, Fruits-360) and **B** YOLOv8s detection (26 fruit classes), combined in a Gradio app with a *Normal* mode (fixed R0 settings, auto-retry at conf 0.25 when nothing is found) and a *Research* mode (adjustable confidence / IoU / image size / A-assisted relabel (R9) / 2×2 tiling, presets R0, R1, R3, R9).
-
-Key results: ResNet18 Top-1 98.5% on white-background test vs 66.0% on real photos; YOLOv8s (26 classes) test mAP@0.5 0.772; in-scope real/stock photos with at least one correct species box 64.0% → 72.0%, at the cost of more false boxes (640 → 934). Demo: Hugging Face Spaces (link above). Datasets: Fruits-360 (CC BY-SA 4.0), Zenodo 18904638 (CC BY 4.0); check licenses before redistributing weights or images.
