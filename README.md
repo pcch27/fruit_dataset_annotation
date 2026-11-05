@@ -4,7 +4,7 @@
 
 從白底資料集到真實照片：A 分類（Baseline CNN／ResNet18／MobileNetV2）＋ B 偵測（YOLOv8s，26 類），整合成 Gradio 介面。
 
-🔗 **線上 Demo**：https://huggingface.co/spaces/<你的帳號>/fruit-recognition　｜　📄 簡報：[docs/project_presentation.pdf](docs/project_presentation.pdf)
+🔗 **線上 Demo**：[https://huggingface.co/spaces/PCChen27/Fruit_Recognition_Free_GPU｜　📄 簡報：[docs/project_presentation.pdf](docs/project_presentation.pdf)
 
 ## 重點結果（皆取自 v12 簡報）
 | 項目 | 結果 |
