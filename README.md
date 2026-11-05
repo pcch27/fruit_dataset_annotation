@@ -1,10 +1,10 @@
 # 水果影像辨識系統 Fruit Recognition (Classification + Detection)
 
-**中文** | [English](#english)
+**中文** | [English]
 
 從白底資料集到真實照片：A 分類（Baseline CNN／ResNet18／MobileNetV2）＋ B 偵測（YOLOv8s，26 類），整合成 Gradio 介面。
 
-🔗 **線上 Demo**：🔗 線上 Demo：[https://huggingface.co/spaces/PCChen27/Fruit_Recognition_Free_GPU｜　📄 簡報：docs/project_presentation.pdf
+🔗 **線上 Demo**：🔗 線上 Demo：[https://huggingface.co/spaces/PCChen27/Fruit_Recognition_Free_GPU｜　
 
 ## 重點結果（取自專題簡報）
 | 項目 | 結果 |
