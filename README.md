@@ -75,7 +75,3 @@ A 分類回答「**是什麼水果**」，B 偵測回答「**在哪裡、有幾�
 - Fruits-360：CC BY-SA 4.0
 - Zenodo 18904638 水果偵測資料集：CC BY 4.0
 - Unsplash／Pexels：依各自授權條款使用
-
-## 作者
-
-**Pei-Chi Chen（pcch27）**
